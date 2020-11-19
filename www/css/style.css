@@ -1,0 +1,33 @@
+#banner
+{
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 120px;
+	font-weight: bold;	
+}
+
+#logo
+{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+#menubar
+{
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 23px;
+	background: #c22525;
+	padding: 0.5rem;
+}
+
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover
+{
+	font-weight: bold;
+}
+
