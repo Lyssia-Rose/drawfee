@@ -32,10 +32,12 @@ a:hover
 }
 
 
+
+
 #members
 {
 	position: absolute;
-	top: 150px;
+	top: 175px;
 	left: 75px;
 	font-size: 60px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
@@ -201,14 +203,14 @@ a:hover
 #caldwellpic
 {
 	position: absolute;
-	top: 2050px;
+	top: 2025px;
 	left: 100px;
 }
 
 #caldwelltanner
 {
 	position: absolute;
-	top: 1990px;
+	top: 1965px;
 	left: 300px;
 	font-size: 50px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
@@ -218,7 +220,7 @@ a:hover
 #caldwell
 {
 	position: absolute;
-	top: 2085px;
+	top: 2060px;
 	left: 300px;
 	font-size: 18px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
@@ -229,29 +231,56 @@ a:hover
 #williepic
 {
 	position: absolute;
-	top: 2350px;
+	top: 2325px;
 	left: 100px;
 }
 
 #williemuse
 {
 	position: absolute;
-	top: 1290px;
+	top: 2265px;
 	left: 300px;
 	font-size: 50px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-weight: bold;
 }
 
+#willie
+{
+	position: absolute;
+	top: 2360px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
 
 
 
+#tristanpic
+{
+	position: absolute;
+	top: 2625px;
+	left: 100px;
+}
 
+#tristancooper
+{
+    position: absolute;
+	top: 2565px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
 
-
-
-
-
+#tristan
+{
+	position: absolute;
+	top: 2660px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
 
 
 
