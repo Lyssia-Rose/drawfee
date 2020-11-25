@@ -31,6 +31,231 @@ a:hover
 	font-weight: bold;
 }
 
+
+#members
+{
+	position: absolute;
+	top: 150px;
+	left: 75px;
+	font-size: 60px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+
+#nathanpic
+{
+	position: absolute;
+	top: 350px;
+	left: 100px;
+}
+
+#nathanyaffe
+{
+	position: absolute;
+	top: 290px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+#nathan
+{
+	position: absolute;
+	top: 385px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+
+
+#juliapic
+{
+	position: absolute;
+	top: 650px;
+	left: 100px;
+}
+
+#julialepetit
+{
+	position: absolute;
+	top: 590px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+#julia
+{
+	position: absolute;
+	top: 685px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+
+
+#jacobpic
+{
+	position: absolute;
+	top: 950px;
+	left: 100px;
+}
+
+#jacobandrews
+{
+	position: absolute;
+	top: 890px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+#jacob
+{
+	position: absolute;
+	top: 985px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+
+
+#karinapic
+{
+	position: absolute;
+	top: 1250px;
+	left: 100px;
+}
+
+#karinafarek
+{
+	position: absolute;
+	top: 1190px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+#karina
+{
+	position: absolute;
+	top: 1285px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+
+
+#davidpic
+{
+	position: absolute;
+	top: 1550px;
+	left: 100px;
+}
+
+#davidclarke
+{
+	position: absolute;
+	top: 1490px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+#david
+{
+	position: absolute;
+	top: 1585px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+
+
+#guests
+{
+	position: absolute;
+	top: 1850px;
+	left: 75px;
+	font-size: 60px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+
+#caldwellpic
+{
+	position: absolute;
+	top: 2050px;
+	left: 100px;
+}
+
+#caldwelltanner
+{
+	position: absolute;
+	top: 1990px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+#caldwell
+{
+	position: absolute;
+	top: 2085px;
+	left: 300px;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+
+
+#williepic
+{
+	position: absolute;
+	top: 2350px;
+	left: 100px;
+}
+
+#williemuse
+{
+	position: absolute;
+	top: 1290px;
+	left: 300px;
+	font-size: 50px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #youtube
 {
 	position: absolute;
