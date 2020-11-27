@@ -31,278 +31,40 @@ a:hover
 	font-weight: bold;
 }
 
-
-
-
-#members
+#header1
 {
 	position: absolute;
-	top: 175px;
-	left: 75px;
 	font-size: 60px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-weight: bold;
 	text-decoration: underline;
 }
 
-
-
-#nathanpic
+#header2
 {
 	position: absolute;
-	top: 350px;
-	left: 100px;
-}
-
-#nathanyaffe
-{
-	position: absolute;
-	top: 290px;
-	left: 300px;
 	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#nathan
-{
-	position: absolute;
-	top: 385px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-#juliapic
-{
-	position: absolute;
-	top: 650px;
-	left: 100px;
-}
-
-#julialepetit
-{
-	position: absolute;
-	top: 590px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#julia
-{
-	position: absolute;
-	top: 685px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-#jacobpic
-{
-	position: absolute;
-	top: 950px;
-	left: 100px;
-}
-
-#jacobandrews
-{
-	position: absolute;
-	top: 890px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#jacob
-{
-	position: absolute;
-	top: 985px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-#karinapic
-{
-	position: absolute;
-	top: 1250px;
-	left: 100px;
-}
-
-#karinafarek
-{
-	position: absolute;
-	top: 1190px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#karina
-{
-	position: absolute;
-	top: 1285px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-#davidpic
-{
-	position: absolute;
-	top: 1550px;
-	left: 100px;
-}
-
-#davidclarke
-{
-	position: absolute;
-	top: 1490px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#david
-{
-	position: absolute;
-	top: 1585px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-#guests
-{
-	position: absolute;
-	top: 1850px;
-	left: 75px;
-	font-size: 60px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-weight: bold;
 	text-decoration: underline;
 }
 
-
-
-#caldwellpic
+#description
 {
 	position: absolute;
-	top: 2025px;
-	left: 100px;
-}
-
-#caldwelltanner
-{
-	position: absolute;
-	top: 1965px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#caldwell
-{
-	position: absolute;
-	top: 2060px;
-	left: 300px;
 	font-size: 18px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 }
 
-
-
-#williepic
+#pic
 {
 	position: absolute;
-	top: 2325px;
 	left: 100px;
 }
 
-#williemuse
+#link
 {
 	position: absolute;
-	top: 2265px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#willie
-{
-	position: absolute;
-	top: 2360px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-#tristanpic
-{
-	position: absolute;
-	top: 2625px;
-	left: 100px;
-}
-
-#tristancooper
-{
-    position: absolute;
-	top: 2565px;
-	left: 300px;
-	font-size: 50px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-weight: bold;
-}
-
-#tristan
-{
-	position: absolute;
-	top: 2660px;
-	left: 300px;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-
-
-
-#youtube
-{
-	position: absolute;
-	top: 300px;
-	left: 600px;
-}
-
-#twitter
-{
-	position: absolute;
-	top: 600px;
-    left: 600px;
-}
-
-#twitch
-{
-	position: absolute;
-	top: 900px;
 	left: 600px;
 }
 
