@@ -28,7 +28,7 @@ a
 
 a:hover
 {
-	font-weight: bold;
+	text-decoration: underline;
 }
 
 #header1
@@ -68,3 +68,17 @@ a:hover
 	left: 600px;
 }
 
+#gallery
+{
+	position: absolute;
+}
+
+.footer
+{
+    position: absolute;
+	width: 100%;
+    background-color: #c22525;
+    text-align: center;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 23px;
+}
