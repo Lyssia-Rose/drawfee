@@ -20,6 +20,50 @@
 	padding: 0.5rem;
 }
 
+
+
+.dropdownbutton
+{
+	background: #c22525;
+	font-size: 23px;
+	border: none;
+}
+
+.dropdown
+{
+	position: relative;
+	display: inline-block;
+}
+
+.dropdowncontent
+{
+	display: none;
+	position: absolute;
+	background-color: #c22525;
+	min-width: 200px;
+	z-index: 1;
+}
+
+.dropdowncontent a
+{
+	text-decoration: none;
+	color: black;
+	padding: 14px 16px;
+	display: block
+}
+
+.dropdowncontent a:hover
+{
+	background-color: #8a1513;
+}
+
+.dropdown:hover .dropdowncontent
+{
+	display: block;
+}
+
+
+
 a
 {
 	text-decoration: none;
