@@ -1,2 +1,0 @@
-# drawfee
-Assignment 2
